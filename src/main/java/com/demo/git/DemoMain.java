@@ -6,5 +6,10 @@ public class DemoMain {
 		System.out.println("Git Demo bug fix");
 
 	}
+	
+	public void test()
+	{
+		System.out.println("aaabbb");
+	}
 
 }
