@@ -9,7 +9,7 @@ public class DemoMain {
 	
 	public void test()
 	{
-		System.out.println("aaa");
+		System.out.println("aaabbb");
 	}
 
 }
